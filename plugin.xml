@@ -6,7 +6,7 @@
 
     <name>SQLitePlugin</name>
 
-    <description>A plugin developed for SQLite use with Phonegap. Forked from https://github.com/brodysoft/Cordova-SQLitePlugin</description>
+    <description>A plugin developed for SQLite use with Phonegap. Support NoCloud function ( 2.23: Apps must follow the iOS Data Storage Guidelines or they will be rejected - kCFURLIsExcludedFromBackupKey) </description>
     <author>Github user @brodysoft</author>
     <license>MIT</license>
 
